@@ -1,7 +1,0 @@
-{
-  "routes": [
-    { "path": "/", "title": "Noël Shop" },
-    { "path": "/admin/orders", "title": "لوحة الطلبات" },
-    { "path": "/404", "title": "غير موجود" }
-  ]
-}
